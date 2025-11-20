@@ -1,6 +1,6 @@
 .avatar {
     width: 150px;
-    border: 5px solid green;
+    border: 5px solid xrgb(77, 109, 3);
     border-radius: 200px;
     padding: 5px;
     margin-left: 50px;
@@ -10,12 +10,13 @@
 .card {
     width: 250px;
     height: 350px;
+       
     border: 2px solid black;
     border-radius: 15px;
     text-align: center;
-    box-shadow: 10px 10px 5px greenyellow;
+    box-shadow: 5px 5px 5px  rgb(17, 15, 15);
     margin: auto;
     margin-top: 50px;
     padding-top: 20px;
-    background-color: #f9f9f9;
+    background-color: limegreen;
 }
